@@ -2,3 +2,6 @@
 ```console
 npm init -y
 ```
+```console
+npm i -S express
+```

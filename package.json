@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/faizan76/my-blog-backend/issues"
   },
-  "homepage": "https://github.com/faizan76/my-blog-backend#readme"
+  "homepage": "https://github.com/faizan76/my-blog-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
