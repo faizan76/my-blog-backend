@@ -14,3 +14,6 @@ npx babel-node src/server.js
 ```console
 npm i -S body-parser
 ```
+```console
+npm i -D nodemon
+```
