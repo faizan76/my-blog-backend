@@ -6,20 +6,6 @@ const app = express();
 
 app.use(bodyParser.json());
 
-const articlesInfo = {
-    'learn-react': {
-        upvotes: 0,
-        comments: [],
-    },
-    'learn-node': {
-        upvotes: 0,
-        comments: [],
-    },
-    'my-thoughts-on-resumes': {
-        upvotes: 0,
-        comments: [],
-    },
-}
 
 app.post('/api/articles/:name/upvote', (req, res) => {
     const articleName = req.params.name;
