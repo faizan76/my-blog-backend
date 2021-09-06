@@ -1,0 +1,20 @@
+{
+  "name": "my-blog-backend",
+  "version": "1.0.0",
+  "description": "```console npm init -y ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizan76/my-blog-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizan76/my-blog-backend/issues"
+  },
+  "homepage": "https://github.com/faizan76/my-blog-backend#readme"
+}
