@@ -11,3 +11,6 @@ npm i -D @babel/core @babel/node @babel/preset-env
 ```console
 npx babel-node src/server.js
 ```
+```console
+npm i -S body-parser
+```
